@@ -1,18 +1,7 @@
   
   
   //********FOR RIGHT HAND SIDE BOT
-  
-  
-  
-  
-  /*   ~ Simple Arduino - xBee Receiver sketch ~
 
-  Read an PWM value from Arduino Transmitter to fade an LED
-  The receiving message starts with '<' and closes with '>' symbol.
-  
-  Dev: Michalis Vasilakis // Date:2/3/2016 // Info: www.ardumotive.com // Licence: CC BY-NC-SA                   
-  */
-//Variables
 bool started= false;//True: Message is strated
 bool ended  = false;//True: Message is finished 
 char incomingByte ; //Variable to store the incoming byte                                                   

@@ -1,9 +1,4 @@
-  /*   ~ Simple Arduino - xBee Receiver sketch ~
 
-  Read an PWM value from Arduino Transmitter to fade an LED
-  The receiving message starts with '<' and closes with '>' symbol.
-  
-  Dev: Michalis Vasilakis // Date:2/3/2016 // Info: www.ardumotive.com // Licence: CC BY-NC-SA                    */
 
 //Constants
 const int ledPin = 3; //Led to Arduino pin 3 (PWM)
